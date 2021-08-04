@@ -1,0 +1,16 @@
+
+.sor {
+    padding: 20px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    border: 1px solid blue;
+}
+.piros {
+    background: #f66;
+}
+.negyzet {
+    padding: 20px;
+    background: #66f;
+}
